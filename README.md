@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love **coffee** and **cats**
 -->
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=alone404&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alone404&layout=compact&theme=radical)
 
 ![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
